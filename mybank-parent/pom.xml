@@ -11,8 +11,8 @@
 
 	<modules>
 		<module>routing-core</module>
-    <module>TestProject</module>
-  </modules>
+		<module>TestProject</module>
+	</modules>
 
 	<!-- scm>
 		<developerConnection>scm:svn:http://ganesh-code.mpht.priv.atos.fr/svn/${svn-repository}/trunk/</developerConnection>
